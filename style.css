@@ -4,6 +4,28 @@ body{
     margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.navbar{
+
+    background-color: rgba(192, 192, 192, 0.233);
+    margin-left: 50px;
+    margin-right: 50px; 
+    color: rgb(118, 131, 116);
+    padding: 20px;
+    margin-bottom: -50px;
+    margin-top: -20px;
+}
+.navbar a{
+    margin: 10px;
+    margin-top: -7px;
+    float: right; 
+}
+.navbar p{
+    float: left;
+    margin-top:-10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .contentContainer{
     background-color: rgb(27, 27, 27);
